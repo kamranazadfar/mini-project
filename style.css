@@ -10,4 +10,5 @@ body{
     background-image: url(/img/cyberpunk-mclaren-supercars-neon-art-3840x2160-1003.jpg);
     background-size: cover ;
     height: 100vh;
+    background-color: aqua;
 }
